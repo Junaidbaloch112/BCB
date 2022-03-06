@@ -1,4 +1,4 @@
-# BCB import os
+import os
 
 os.system('git pull')
 
